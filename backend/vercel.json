@@ -1,11 +1,5 @@
 {
     "version": 2,
-    "routes": [
-      {
-        "src": "/index.js",
-        "dest": "/index.js"
-      }
-    ],
     "builds": [
         {
           "src": "/index.js",
